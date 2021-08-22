@@ -1,0 +1,56 @@
+# buffer auto-saves
+\#*\#
+
+# backup files
+*~
+
+# lock files
+*\#*
+
+# auto-save file directory
+auto-save-list/
+
+# backup file directory
+backup/
+
+# packages
+elpa/
+straight/
+
+# transient keymappings from magit
+transient/
+
+# cache
+.cache/
+*.cache
+
+# language server session data
+.lsp-session*/
+
+# dap debugging breakpoints
+.dap-breakpoints
+
+# desktop save state
+.desktop
+.desktop.lock
+
+# projectile files
+*.eld
+
+# recent changes
+recentf
+
+# flycheck temporary files
+flycheck_init.el
+
+# dap-chrome
+url
+
+# dap-chrome dependencies
+.extension/
+
+# emacs bookmarks
+bookmarks
+
+# treemacs files
+.treemacs
